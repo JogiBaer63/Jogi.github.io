@@ -17,3 +17,4 @@ Walt Disney said:
 > dream it,
 > you can do
 > it.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Walt_Disney_NYWTS.jpg/800px-Walt_Disney_NYWTS.jpg"
